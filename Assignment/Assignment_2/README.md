@@ -1,4 +1,5 @@
 #Assignment 2
+
 This folder contains warmup codes in which I have:- 
 1) printed * by taking input from user
 2) Display string based on condition
