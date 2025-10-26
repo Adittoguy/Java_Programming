@@ -1,5 +1,16 @@
 import java.util.Scanner;
 
+////////////////////////////////////////////////////////////////////////
+//
+//  Function Name   :   ReverseFactor
+//  Description     :   Used to Display factors in reverse order
+//  Input           :   Integer
+//  Output          :   Integer
+//  Author          :   Aditya Bhaskar Sanap
+//  Date            :   22/10/2025
+//
+////////////////////////////////////////////////////////////////////////
+
 class Demo
 {
     public void FactorReverse(int iNo)
@@ -20,6 +31,12 @@ class Demo
         }
     }
 }
+
+////////////////////////////////////////////////////////////////////////
+//
+//  Entry point function : Main
+//
+////////////////////////////////////////////////////////////////////////
 
 class Program4_2
 {
