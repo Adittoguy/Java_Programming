@@ -1,0 +1,1 @@
+#Assignment 2\n This folder contains warmup codes in which I have:- \n1) printed * by taking input from user\n 2) Display string based on condition\n 3) used to display same number in multiple of another number\n 4) used to check weather number is even or odd.\n\n To execute these codes I used commands:-\n\n javac Filename.java :- to compile \n\n java FileName :- to run
