@@ -6,5 +6,7 @@ This folder contains warmup codes in which I have:-
 4) used to check weather number is even or odd.
 
 To execute these codes I used commands:-
+
 javac Filename.java :- to compile
+
 java FileName :- to run
