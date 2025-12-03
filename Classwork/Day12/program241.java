@@ -1,0 +1,27 @@
+////////////////////////////////////////////////////////////////////////
+//
+//  Required Import Files
+//
+////////////////////////////////////////////////////////////////////////
+
+import java.util.*;
+
+////////////////////////////////////////////////////////////////////////
+//
+//  Entry point function : Main
+//
+////////////////////////////////////////////////////////////////////////
+
+class program241
+{
+    public static void main(String A[])
+    {
+        Scanner sobj = new Scanner(System.in);
+
+        System.out.println("Enter String : ");
+        String str = sobj.nextLine();
+
+        System.out.println("Input is : "+str);
+        System.out.println("Length of String is : "+ str.length());         // similar to strlen
+    }
+}
